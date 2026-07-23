@@ -40,7 +40,7 @@ function App() {
                     messaging,
                     {
                         vapidKey:
-                        "ТВОЙ_VAPID_KEY"
+                        "BLqt4dudqW4QntCjJsmerjgzfz4rV_2ZSDrAtea8XSh6qtw0ZXJW0sDA-pco2OqJfQxfANYBKkTtttzD58zbfgk"
                     }
                 );
 
