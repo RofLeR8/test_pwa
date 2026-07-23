@@ -35,7 +35,7 @@ vapidKey:
 
 }
 );
-
+alert(token);
 
 
 console.log(
